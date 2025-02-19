@@ -1082,7 +1082,7 @@
 1282,"['cnbc', 'german', 'payment', 'company', 'wirecard', 'file', 'insolvency', 'html']",False
 1283,['apnews'],False
 1284,"['reuters', 'article', 'defense', 'senate', 'senate', 'advance', 'billion', 'defense', 'bill', 'stage', 'confederate', 'battle']",False
-1285,"['politico', 'news', 'senate', 'china', 'sanction', 'bill']",False
+1285,"['politico', 'news', 'senate', 'pass', 'china', 'sanction', 'bill']",False
 1286,"['politico', 'news', 'police', 'reform', 'plan', 'house']",False
 1287,"['axios', 'police', 'reform', 'george', 'floyd', 'protest', 'html']",False
 1288,['apnews'],False
@@ -2150,7 +2150,7 @@
 2716,"['whitehouse', 'peacetoprosperity']",False
 2717,"['aljazeera', 'news', 'area', 'occupied', 'west', 'bank', 'html']",False
 2718,"['reuters', 'article', 'israel', 'palestinian', 'annexation', 'israeli', 'minister', 'signal', 'major', 'west', 'bank', 'annexation', 'move', 'imminent']",False
-2719,"['theguardian', 'world', 'hong', 'kong', 'activist', 'shut', 'protest', 'group', 'china', 'security']",False
+2719,"['theguardian', 'world', 'hong', 'kong', 'activist', 'shut', 'protest', 'group', 'china', 'pass', 'security']",False
 2720,"['news', 'world', 'asia', 'pacific']",False
 2721,"['axios', 'hong', 'kong', 'national', 'security', 'china', 'html']",False
 2722,"['scitation', 'action', 'cookie', 'bsent']",True
@@ -2248,7 +2248,7 @@
 2836,"['numlock', 'substack', 'numlock', 'sunday', 'ottavianti']",True
 2837,"['numlock', 'substack', 'numlock', 'sunday', 'josh', 'kosman', 'mattress']",True
 2838,"['numlock', 'substack', 'numlock', 'sunday', 'kyle', 'chayka']",True
-2839,"['numlock', 'substack', 'numlock', 'sunday', 'dani', 'levi', 'ghost']",True
+2839,"['numlock', 'substack', 'numlock', 'sunday', 'dani', 'levis', 'ghost']",True
 2840,"['numlock', 'substack', 'numlock', 'sunday', 'andrew', 'flower']",True
 2841,"['numlock', 'substack', 'numlock', 'sunday', 'stacy', 'smith']",True
 2842,"['numlock', 'substack', 'numlock', 'sunday', 'joanna', 'piacenza', 'wrap']",True
